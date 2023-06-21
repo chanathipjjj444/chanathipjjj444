@@ -1,7 +1,7 @@
 ![MasterHead](https://pbs.twimg.com/media/FAmjmBYWYAAL4sd.jpg:large)
 # 💫 About Me:
-```👋👋 Hello I'm Jay || A 2nd year computer engineer collegian at KMITL 👋👋<br>(　-_･) ︻デ═一 ▸ I'm Interested in Infrastructure Networking and devops🎯🎯<br><br><br>             
-( づ￣ ³￣ )づ                               ( づ￣ ³￣ )づ                                ( づ￣ ³￣ )づ```
+👋👋 Hello I'm Jay || A 2nd year computer engineer collegian at KMITL 👋👋<br>(　-_･) ︻デ═一 ▸ I'm Interested in Infrastructure Networking and devops🎯🎯<br><br><br>             
+( づ￣ ³￣ )づ                               ( づ￣ ³￣ )づ                                ( づ￣ ³￣ )づ 
 
 
 ## 🌐 Socials:
