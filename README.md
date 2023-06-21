@@ -6,14 +6,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chanathipjjj444" alt="chanathipjjj444" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
-- 🔭 I’m currently working on **Game project**
-
-- 🌱 I’m currently learning **python**
-
-- 📫 How to reach me **chanathip2320@gmail.com**
-
-- ⚡ Know me better **I really love sushi🍣🍣**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/chanathip_jjj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chanathip_jjj" height="30" width="40" /></a>
