@@ -1,9 +1,6 @@
 ![MasterHead](https://pbs.twimg.com/media/FAmjmBYWYAAL4sd.jpg:large)
 # 💫 About Me:
-👋👋 Hello I'm Jay || A 3rd year computer engineer collegian at KMITL 👋👋<br>(　-_･) ︻デ═一 ▸AI&devops🎯🎯<br>             
-( づ￣ ³￣ )づ                               ( づ￣ ³￣ )づ                                ( づ￣ ³￣ )づ 
-
-
+A 3rd year computer engineer collegian at KMITL          
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100004915809030) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chanathip_jjj) 
 # 📊 GitHub Stats:
