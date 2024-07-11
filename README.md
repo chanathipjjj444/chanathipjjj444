@@ -1,4 +1,3 @@
-![MasterHead](https://pbs.twimg.com/media/FAmjmBYWYAAL4sd.jpg:large)
 # 💫 About Me:
 A 3rd year computer engineer collegian at KMITL          
 ## 🌐 Socials:
