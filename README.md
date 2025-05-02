@@ -1,5 +1,5 @@
 # 💫 About Me:
-A 3rd year computer engineer collegian at KMITL          
+A  4th year computer engineer collegian at KMITL          
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100004915809030) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chanathip_jjj) 
 # 📊 GitHub Stats:
