@@ -1,5 +1,7 @@
 # 💫 About Me:
 A  4th year computer engineer collegian at KMITL
+System Engineer, Frontend Developer(Antd, tailwind), AI 
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100004915809030)
 # 📊 GitHub Stats:
