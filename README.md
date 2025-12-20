@@ -1,5 +1,5 @@
 # 💫 About Me:
-A  4th year computer engineer collegian at KMITL
+A  4th year computer engineer collegian at KMITL <br>
 System Engineer, Frontend Developer(Antd, tailwind), AI Solutions
 
 ## 🌐 Socials:
